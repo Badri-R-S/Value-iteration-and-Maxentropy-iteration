@@ -1,4 +1,4 @@
-# Implementation of Value Iterattion and Maximum Entropy Value Iteration
+# Implementation of Value Iteration and Maximum Entropy Value Iteration
 ## Setup
 The code is written in python 3. In order to install the requiriments,refer to the requirements.txt and use pip3 install to install them.
 
