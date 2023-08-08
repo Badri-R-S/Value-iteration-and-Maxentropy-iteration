@@ -50,5 +50,19 @@ You will need to fill the code in `part1/tabular_value_iteration.py`
  below the lines `if self.policy_type == 'max_ent'`. Run `python part1/run_part1.py -p max_ent -t TEMPERATURE `
 to run value iteration with a maximum entropy policy and different temperature values.
 
+### Contours Progress
+
+
+https://github.com/Badri-R-S/Value-iteration-and-Maxentropy-iteration/assets/81817254/ee94c866-3625-446b-b097-283402921bcb
+
+### Rollouts for the policy
+
+
+https://github.com/Badri-R-S/Value-iteration-and-Maxentropy-iteration/assets/81817254/2a6bba7a-84dd-4434-a448-f485cde1cf92
+
+
+
+
+
 
 
