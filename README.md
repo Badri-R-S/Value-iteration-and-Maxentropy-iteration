@@ -32,6 +32,19 @@ You will need to fill the code in `part1/tabular_value_iteration.py`
  below the lines `if self.policy_type == 'deterministic'`. Run `python part1/run_part1.py `
 to run the code that will generate the plots and loggings.
 
+### Contours Progress
+
+
+https://github.com/Badri-R-S/Value-iteration-and-Maxentropy-iteration/assets/81817254/9538a6ba-2312-4cdc-93dd-6c120be88f62
+
+### Rollouts for the policy
+
+
+https://github.com/Badri-R-S/Value-iteration-and-Maxentropy-iteration/assets/81817254/689adeed-1e5f-4ce4-abf6-99705bca7dc1
+
+
+
+
 ### Question (b): Implement value iteration for a maximum entropy policy
 You will need to fill the code in `part1/tabular_value_iteration.py`
  below the lines `if self.policy_type == 'max_ent'`. Run `python part1/run_part1.py -p max_ent -t TEMPERATURE `
